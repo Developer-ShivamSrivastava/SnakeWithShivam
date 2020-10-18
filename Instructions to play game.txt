@@ -1,0 +1,5 @@
+1. Download & Install python interpeter from https://www.python.org/
+2. Open cmd then write carefully -->  <pip install pygame>
+3. Open "snake.py" file and play & enjoy.
+
+Note:- Do not delete any file.
